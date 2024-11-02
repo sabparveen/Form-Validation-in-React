@@ -1,8 +1,7 @@
-// App.js
 import React from 'react';
 import FormComponent from './components/FormComponent';
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js"; // Bootstrap JS ka .js extension ensure karen
+import "bootstrap/dist/js/bootstrap.bundle.min.js"; 
 
 function App() {
   return (
