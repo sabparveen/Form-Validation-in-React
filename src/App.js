@@ -8,6 +8,7 @@ function App() {
     <div className="App d-flex justify-content-center align-items-center vh-100 bg-warning-subtle">
       <div>
         <h1 className="text-center mb-5 fw-bold">Form Validation in React</h1>
+        <h3 className="text-center fw-bold">Sign in</h3>
         <FormComponent />
       </div>
     </div>
